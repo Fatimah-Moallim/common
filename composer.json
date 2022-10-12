@@ -1,0 +1,15 @@
+{
+  "name": "fatimah.moallim/common",
+  "description": "This is a package for the Microservices",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Fatimah Moallim",
+      "email": "fatimah.moallim@gmail.com"
+    }
+  ],
+  "require": {
+    "laravel/framework": "^7.0"
+  }
+}
