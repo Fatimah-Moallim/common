@@ -1,5 +1,5 @@
 {
-  "name": "fatimah.moallim/common",
+  "name": "fatimah-moallim/common",
   "description": "This is a package for the Microservices",
   "type": "library",
   "license": "MIT",
@@ -12,5 +12,10 @@
   "require": {
     "php": "^7.4|^8.0",
     "laravel/framework": "^8.75"
+  },
+  "autoload": {
+    "psr-4": {
+      "FatimahMoallim\\Common": "src/"
+    }
   }
 }
